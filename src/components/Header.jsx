@@ -11,7 +11,7 @@ export default function Header() {
           <p>dewaldbreed@gmail.com</p>
           <div className='header--buttons'>
           <a href="mailto:dewaldbreed@gmail.com"><button className='btn--email'>Email</button></a>
-          <a href="https://www.linkedin.com/in/dewald-breed-a2297a272/" target="_blank"><button className='btn--linkedin'>LinkedIn</button></a>
+          {/* <a href="https://www.linkedin.com/in/dewald-breed-a2297a272/" target="_blank"><button className='btn--linkedin'>LinkedIn</button></a> */}
           </div>
         </div>
       </div>
